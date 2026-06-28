@@ -96,7 +96,7 @@ python app.py
 
 ### 💬 AI Conversation
 
-![AI Conversation](screenshot/resopnse.png)
+![AI Conversation](screenshots/resopnse.png)
 
 ---
 
