@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chat Box</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>🤖 AI Chat Box</h1>
+
+        <div id="chat-box">
+
+        </div>
+
+        <form id="chat-form">
+
+            <input type="text" id="user_input" placeholder="Type your message..." autocomplete="off" required>
+
+            <button type="submit" id="send-btn">
+                Send
+            </button>
+
+            <button type="button" id="new-chat-btn">
+                +
+            </button>
+
+        </form>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>
