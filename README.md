@@ -96,13 +96,13 @@ python app.py
 
 ### 💬 AI Conversation
 
-![AI Conversation](screenshot/respond.png)
+![AI Conversation](screenshot/resopnse.png)
 
 ---
 
 ### 🤖 AI Typing Indicator
 
-![AI Typing Indicator](screenshots/ai-is-typing.png)
+![AI Typing Indicator](screenshots/AI_is_typing.png)
 
 ---
 
